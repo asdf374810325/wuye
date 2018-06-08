@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+    
+    <package name="demo1" extends="struts-default" namespace="/">
+        <action name="login_*" class="loginAction" method="{1}">
+            <result name="error" type="redirect">login.jsp</result>
+            <result name="admin" type="dispatcher">index.jsp</result>
+            <result name="user" type="dispatcher">index2.jsp</result>
+        </action>
+        <action name="maintain_*" class="maintainAction" method="{1}">
+            <result name="maintainsList" type="dispatcher">maintain/maintain-list.jsp</result>
+            <result name="maintainsToList" type="redirectAction">maintain_query</result>
+            <result name="maintainsListToEdit" type="dispatcher">maintain/maintain-edit.jsp</result>
+        </action>
+        <action name="admin_*" class="adminAction" method="{1}">
+            <result name="adminList" type="dispatcher">admin/admin-list.jsp</result>
+            <result name="adminToList" type="redirectAction">admin_query</result>
+            <result name="adminListToEdit" type="dispatcher">admin/admin-edit.jsp</result>
+        </action>
+        <action name="notice_*" class="noticeAction" method="{1}">
+            <result name="noticeList" type="dispatcher">notice/notice-list.jsp</result>
+            <result name="noticeToList" type="redirectAction">notice_query</result>
+            <result name="noticeListToEdit" type="dispatcher">notice/notice-edit.jsp</result>
+        </action>
+        <action name="inspection_*" class="inspectionAction" method="{1}">
+            <result name="inspectionList" type="dispatcher">inspection/inspection-list.jsp</result>
+            <result name="inspectionToEdit" type="redirectAction">inspection_query</result>
+            <result name="inspectionListToEdit" type="dispatcher">inspection/inspection-edit.jsp</result>
+        </action>
+    </package>
+    
+</struts>

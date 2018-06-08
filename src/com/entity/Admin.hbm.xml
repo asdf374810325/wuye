@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name="com.entity.Admin" table="admin">
+		<id name="adminid" column="adminid">
+			<generator class="uuid" />
+		</id>
+
+		<property name="name" column="name" />
+		<property name="password" column="password" />
+		<property name="sex" column="sex" />
+		<property name="age" column="age" />
+		<property name="tel" column="tel" />
+		<property name="phone" column="phone" />
+		<property name="addr" column="addr" />
+		<property name="memo" column="memo" />
+		
+		<!-- 公告表 -->
+		<set name="notice" cascade="save-update,delete" lazy="false">
+			<key column="uper"></key>
+			<one-to-many class="com.entity.House" />
+		</set>
+		
+		<!-- 巡查表 -->
+		<set name="inspection" cascade="save-update,delete" lazy="false">
+			<key column="conductor"></key>
+			<one-to-many class="com.entity.Inspection" />
+		</set>
+	</class>
+
+</hibernate-mapping>    

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name="com.entity.House" table="house">
+		<id name="id" column="id">
+			<generator class="uuid" />
+		</id>
+
+		<property name="num" column="num" />
+		<property name="dep" column="dep" />
+		<property name="type" column="type" />
+		<property name="area" column="area" />
+		<property name="sell" column="sell" />
+		<property name="unit" column="unit" />
+		<property name="floor" column="floor" />
+		<property name="direction" column="direction" />
+		<property name="memo" column="memo" />
+		<property name="ownerid" column="ownerid" />
+		
+		<many-to-one name="customAccount" class="com.entity.CustomAccount" lazy="false" column="accountid" ></many-to-one>
+	</class>
+
+</hibernate-mapping>    

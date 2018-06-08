@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name="com.entity.Maintain" table="maintain">
+		<id name="id" column="id">
+			<generator class="uuid" />
+		</id>
+
+		<property name="thing" column="thing" />
+		<property name="status" column="status" />
+		<property name="homesnumber" column="homesnumber" />
+		<property name="sdate" column="sdate" />
+		<property name="rdate" column="rdate" />
+		<property name="tcost" column="tcost" />
+		<property name="scost" column="scost" />
+		<property name="maintainer" column="maintainer" />
+		<property name="smemo" column="smemo" />
+		
+		<many-to-one name="customAccount" class="com.entity.CustomAccount"  column="accountid"  lazy="false"/>
+	</class>
+
+</hibernate-mapping>    
