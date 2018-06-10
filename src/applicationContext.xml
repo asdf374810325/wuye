@@ -37,6 +37,16 @@
         <property name="service" ref="service"/>
     </bean>
 
+    <bean name="customAccountAction" class="com.action.CustomAccountAction">
+        <property name="customAccount" ref="customAccount"/>
+        <property name="service" ref="service"/>
+    </bean>
+
+    <bean name="houseAction" class="com.action.HouseAction">
+        <property name="house" ref="house"/>
+        <property name="service" ref="service"/>
+    </bean>
+
 
 
     <bean name="service" class="com.service.Service">

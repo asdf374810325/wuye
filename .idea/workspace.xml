@@ -6,7 +6,43 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558f0a6f-fb76-4700-88db-5450d77a8158" name="默认的" comment="test&#10;&#10;test" />
+    <list default="true" id="558f0a6f-fb76-4700-88db-5450d77a8158" name="默认的" comment="test&#10;&#10;test">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/action/CustomAccountAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/action/HouseAction.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/src/com/action/InspectionAction.java" afterPath="$PROJECT_DIR$/src/com/action/InspectionAction.java" />
+      <change beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
+      <change beforePath="$PROJECT_DIR$/web/admin/admin-add.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/admin/admin-edit.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/admin/admin-list.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-add.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-edit.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-list.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/customAccount/user-change-passwd.jsp" afterPath="$PROJECT_DIR$/web/customAccount/user-change-passwd.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/customAccount/user-custom-list.jsp" afterPath="$PROJECT_DIR$/web/customAccount/user-custom-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/house/house-add.jsp" afterPath="$PROJECT_DIR$/web/house/house-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/house/house-edit.jsp" afterPath="$PROJECT_DIR$/web/house/house-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/house/house-list.jsp" afterPath="$PROJECT_DIR$/web/house/house-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/house/user-house-list.jsp" afterPath="$PROJECT_DIR$/web/house/user-house-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-add.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-list.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-add.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-list.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/maintain/user-maintain-add.jsp" afterPath="$PROJECT_DIR$/web/maintain/user-maintain-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/maintain/user-maintain-list.jsp" afterPath="$PROJECT_DIR$/web/maintain/user-maintain-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/notice/notice-add.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/notice/notice-edit.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-edit.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/notice/notice-list.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/notice/notice-view.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-view.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/notice/user-notice-list.jsp" afterPath="$PROJECT_DIR$/web/notice/user-notice-list.jsp" />
+      <change beforePath="$PROJECT_DIR$/wuye.iml" afterPath="$PROJECT_DIR$/wuye.iml" />
+    </list>
     <ignored path=".idea/" />
     <ignored path="out/" />
     <manually-removed-from-ignored>
@@ -50,63 +86,48 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notice-list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/notice/notice-list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="167" column="57" lean-forward="false" selection-start-line="167" selection-start-column="51" selection-end-line="167" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/struts.xml">
           <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="30" column="82" lean-forward="false" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
+            <state relative-caret-position="374">
+              <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inspection-list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/inspection/inspection-list.jsp">
+      <file leaf-file-name="maintain-list.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="169" column="41" lean-forward="false" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="51" />
+            <state relative-caret-position="253">
+              <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InspectionAction.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/action/InspectionAction.java">
+      <file leaf-file-name="MaintainAction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/action/MaintainAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="189">
+              <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/service/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1442#1443#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-                <element signature="e#1533#1534#0" expanded="true" />
-                <element signature="e#1571#1572#0" expanded="true" />
-                <element signature="e#1617#1618#0" expanded="true" />
-                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="method#login#0;class#Service#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -124,7 +145,48 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Exception</find>
+      <find>../user?action=logout</find>
+      <find>../admin?action=adminList</find>
+      <find>../main?action=maintainList</find>
+      <find>../notice?action=noticelist</find>
+      <find>../inspection?action=inspectionList</find>
+      <find>../custom?action=customAccountList</find>
+      <find>../house?action=houseList</find>
+      <find>inspection?action=inspectionList</find>
+      <find>custom?action=customAccountList</find>
+      <find>house?action=houseList</find>
+      <find>notice?action=noticelist</find>
+      <find>admin?action=adminList</find>
+      <find>main?action=maintainList</find>
+      <find>maintainAction_getAllMaintain.action</find>
+      <find>user?action=logout</find>
+      <find>admin.id</find>
+      <find>tadmin_query.action</find>
+      <find>admin_query.action</find>
+      <find>maintain_query.action</find>
+      <find>notice_query.action</find>
+      <find>inspection_query.action</find>
+      <find>customAccount_query.action</find>
+      <find>house_query.action</find>
+      <find>t${pageContext.request.contextPath}/admin_query.action</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>inspection_query.action</replace>
+      <replace>customAccount_query.action</replace>
+      <replace>house_query.action</replace>
+      <replace>notice_query.action</replace>
+      <replace>admin_query.action</replace>
+      <replace>maintain_query.action</replace>
+      <replace>login_exit.action</replace>
+      <replace>${pageContext.request.conextPath}/tadmin_query.action</replace>
+      <replace>${pageContext.request.contextPath}/maintain_query.action</replace>
+      <replace>${pageContext.request.contextPath}/notice_query.action</replace>
+      <replace>${pageContext.request.contextPath}/inspection_query.action</replace>
+      <replace>${pageContext.request.contextPath}/customAccount_query.action</replace>
+      <replace>${pageContext.request.contextPath}/house_query.action</replace>
+      <replace>${pageContext.request.contextPath}/admin_query.action</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,29 +203,38 @@
         <option value="$PROJECT_DIR$/src/com/action/LoginAction.java" />
         <option value="$PROJECT_DIR$/web/login.jsp" />
         <option value="$PROJECT_DIR$/web/index2.jsp" />
-        <option value="$PROJECT_DIR$/web/maintain/maintain-list.jsp" />
-        <option value="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" />
         <option value="$PROJECT_DIR$/src/com/service/Service.java" />
-        <option value="$PROJECT_DIR$/web/maintain/maintain-add.jsp" />
-        <option value="$PROJECT_DIR$/src/com/action/MaintainAction.java" />
-        <option value="$PROJECT_DIR$/web/admin/admin-list.jsp" />
         <option value="$PROJECT_DIR$/src/com/action/AdminAction.java" />
-        <option value="$PROJECT_DIR$/web/admin/admin-edit.jsp" />
-        <option value="$PROJECT_DIR$/web/admin/admin-add.jsp" />
         <option value="$PROJECT_DIR$/src/com/entity/Notice.hbm.xml" />
         <option value="$PROJECT_DIR$/src/com/entity/Inspection.hbm.xml" />
         <option value="$PROJECT_DIR$/src/com/entity/House.hbm.xml" />
-        <option value="$PROJECT_DIR$/web/notice/notice-list.jsp" />
-        <option value="$PROJECT_DIR$/web/notice/notice-add.jsp" />
-        <option value="$PROJECT_DIR$/web/notice/notice-edit.jsp" />
+        <option value="$PROJECT_DIR$/src/com/action/NoticeAction.java" />
+        <option value="$PROJECT_DIR$/src/com/action/InspectionAction.java" />
+        <option value="$PROJECT_DIR$/src/com/action/CustomAccountAction.java" />
         <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/action/HouseAction.java" />
+        <option value="$PROJECT_DIR$/web/maintain/user-maintain-add.jsp" />
+        <option value="$PROJECT_DIR$/web/customAccount/custom-add.jsp" />
+        <option value="$PROJECT_DIR$/web/house/house-add.jsp" />
+        <option value="$PROJECT_DIR$/web/inspection/inspection-add.jsp" />
+        <option value="$PROJECT_DIR$/web/notice/notice-add.jsp" />
+        <option value="$PROJECT_DIR$/web/admin/admin-list.jsp" />
+        <option value="$PROJECT_DIR$/web/customAccount/custom-list.jsp" />
+        <option value="$PROJECT_DIR$/web/house/house-edit.jsp" />
+        <option value="$PROJECT_DIR$/web/house/house-list.jsp" />
+        <option value="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" />
+        <option value="$PROJECT_DIR$/web/inspection/inspection-list.jsp" />
+        <option value="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" />
+        <option value="$PROJECT_DIR$/web/notice/notice-edit.jsp" />
+        <option value="$PROJECT_DIR$/web/notice/notice-list.jsp" />
+        <option value="$PROJECT_DIR$/web/admin/admin-edit.jsp" />
+        <option value="$PROJECT_DIR$/web/maintain/maintain-list.jsp" />
+        <option value="$PROJECT_DIR$/web/customAccount/custom-edit.jsp" />
         <option value="$PROJECT_DIR$/src/struts.xml" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" />
-        <option value="$PROJECT_DIR$/web/inspection/inspection-add.jsp" />
-        <option value="$PROJECT_DIR$/src/com/action/NoticeAction.java" />
-        <option value="$PROJECT_DIR$/web/inspection/inspection-list.jsp" />
-        <option value="$PROJECT_DIR$/src/com/action/InspectionAction.java" />
+        <option value="$PROJECT_DIR$/web/admin/admin-add.jsp" />
+        <option value="$PROJECT_DIR$/web/maintain/maintain-add.jsp" />
+        <option value="$PROJECT_DIR$/src/com/action/MaintainAction.java" />
       </list>
     </option>
   </component>
@@ -204,6 +275,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,32 +309,42 @@
               <item name="wuye" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
               <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
               <item name="wuye" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuye" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="customAccount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuye" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="house" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
               <item name="wuye" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="inspection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuye" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="maintain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
@@ -277,10 +362,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,7 +529,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528420601150</updated>
-      <workItem from="1528420607811" duration="10164000" />
+      <workItem from="1528420607811" duration="10246000" />
+      <workItem from="1528628721579" duration="4996000" />
     </task>
     <task id="LOCAL-00001" summary="test&#10;&#10;test">
       <created>1528430211942</created>
@@ -468,48 +550,48 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10164000" />
+    <option name="totallyTimeSpent" value="15242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="设计师" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="设计师" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="数据库" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6698413" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6698413" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="数据库" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,6 +612,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/action/InspectionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1416#1417#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1507#1508#0" expanded="false" />
+            <element signature="e#1545#1546#0" expanded="false" />
+            <element signature="e#1591#1592#0" expanded="false" />
+            <element signature="e#1624#1625#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wuye.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -542,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,19 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/entity/Admin.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,33 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/ccde594e/07b51ef1-9776-44fe-a1a9-9c6e206a6e35/wuye.custom_account">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
           <caret line="78" column="72" lean-forward="true" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="159" column="98" lean-forward="false" selection-start-line="159" selection-start-column="90" selection-end-line="159" selection-end-column="98" />
           <folding />
         </state>
       </provider>
@@ -628,112 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="154" column="78" lean-forward="false" selection-start-line="154" selection-start-column="66" selection-end-line="154" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="173" column="106" lean-forward="false" selection-start-line="173" selection-start-column="106" selection-end-line="173" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/action/MaintainAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#1378#1379#0" expanded="false" />
-            <element signature="e#1416#1417#0" expanded="false" />
-            <element signature="e#1466#1467#0" expanded="false" />
-            <element signature="e#1506#1507#0" expanded="false" />
-            <element signature="e#1552#1553#0" expanded="false" />
-            <element signature="e#1583#1584#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/admin/admin-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="170" column="70" lean-forward="false" selection-start-line="170" selection-start-column="64" selection-end-line="170" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/admin/admin-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3321">
-          <caret line="216" column="74" lean-forward="false" selection-start-line="216" selection-start-column="74" selection-end-line="216" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/admin/admin-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="153" column="39" lean-forward="false" selection-start-line="153" selection-start-column="39" selection-end-line="153" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dao/AlikeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="76" column="46" lean-forward="true" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
-          <folding>
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1418#1419#0" expanded="false" />
-            <element signature="e#2086#2087#0" expanded="false" />
-            <element signature="e#2139#2140#0" expanded="false" />
-            <element signature="e#2245#2246#0" expanded="false" />
-            <element signature="e#2300#2301#0" expanded="false" />
-            <element signature="e#2406#2407#0" expanded="false" />
-            <element signature="e#2461#2462#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/service/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-          <folding>
-            <element signature="method#login#0;class#Service#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/entity/Notice.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/entity/House.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="83" lean-forward="true" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/entity/Inspection.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/action/AdminAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -747,22 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/notice/notice-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="154" column="55" lean-forward="false" selection-start-line="154" selection-start-column="55" selection-end-line="154" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/notice/notice-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="154" column="52" lean-forward="false" selection-start-line="154" selection-start-column="52" selection-end-line="154" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/entity/Notice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -771,50 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/house/house-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5022">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="100" column="75" lean-forward="false" selection-start-line="100" selection-start-column="75" selection-end-line="100" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="155" column="26" lean-forward="true" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="166" column="100" lean-forward="false" selection-start-line="166" selection-start-column="90" selection-end-line="166" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/ccde594e/07b51ef1-9776-44fe-a1a9-9c6e206a6e35/wuye.notice">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,46 +745,447 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/action/InspectionAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="30" column="82" lean-forward="false" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
+        <state relative-caret-position="-455">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1416#1417#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1507#1508#0" expanded="false" />
+            <element signature="e#1545#1546#0" expanded="false" />
+            <element signature="e#1591#1592#0" expanded="false" />
+            <element signature="e#1624#1625#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/action/CustomAccountAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1483#1484#0" expanded="false" />
+            <element signature="e#1533#1534#0" expanded="false" />
+            <element signature="e#1580#1581#0" expanded="false" />
+            <element signature="e#1618#1619#0" expanded="false" />
+            <element signature="e#1664#1665#0" expanded="false" />
+            <element signature="e#1700#1701#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/maintain/user-maintain-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="83" column="10" lean-forward="true" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/action/HouseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1316#1317#0" expanded="false" />
+            <element signature="e#1350#1351#0" expanded="false" />
+            <element signature="e#1397#1398#0" expanded="false" />
+            <element signature="e#1435#1436#0" expanded="false" />
+            <element signature="e#1481#1482#0" expanded="false" />
+            <element signature="e#1509#1510#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/customAccount/custom-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="103" column="59" lean-forward="false" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+          <folding>
+            <element signature="e#4315#4321#0#HTML" expanded="false" />
+            <element signature="e#4322#4328#0#HTML" expanded="false" />
+            <element signature="e#4329#4335#0#HTML" expanded="false" />
+            <element signature="e#4336#4342#0#HTML" expanded="false" />
+            <element signature="e#4343#4349#0#HTML" expanded="false" />
+            <element signature="e#4507#4513#0#HTML" expanded="false" />
+            <element signature="e#4514#4520#0#HTML" expanded="false" />
+            <element signature="e#4521#4527#0#HTML" expanded="false" />
+            <element signature="e#4528#4534#0#HTML" expanded="false" />
+            <element signature="e#4692#4698#0#HTML" expanded="false" />
+            <element signature="e#4699#4705#0#HTML" expanded="false" />
+            <element signature="e#4706#4712#0#HTML" expanded="false" />
+            <element signature="e#4713#4719#0#HTML" expanded="false" />
+            <element signature="e#4882#4888#0#HTML" expanded="false" />
+            <element signature="e#4889#4895#0#HTML" expanded="false" />
+            <element signature="e#4896#4902#0#HTML" expanded="false" />
+            <element signature="e#4903#4909#0#HTML" expanded="false" />
+            <element signature="e#5085#5091#0#HTML" expanded="false" />
+            <element signature="e#5092#5098#0#HTML" expanded="false" />
+            <element signature="e#5099#5105#0#HTML" expanded="false" />
+            <element signature="e#5106#5112#0#HTML" expanded="false" />
+            <element signature="e#5269#5275#0#HTML" expanded="false" />
+            <element signature="e#5276#5282#0#HTML" expanded="false" />
+            <element signature="e#5283#5289#0#HTML" expanded="false" />
+            <element signature="e#5290#5296#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/house/house-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+          <folding>
+            <element signature="e#4317#4323#0#HTML" expanded="false" />
+            <element signature="e#4324#4330#0#HTML" expanded="false" />
+            <element signature="e#4331#4337#0#HTML" expanded="false" />
+            <element signature="e#4338#4344#0#HTML" expanded="false" />
+            <element signature="e#4345#4351#0#HTML" expanded="false" />
+            <element signature="e#4509#4515#0#HTML" expanded="false" />
+            <element signature="e#4516#4522#0#HTML" expanded="false" />
+            <element signature="e#4523#4529#0#HTML" expanded="false" />
+            <element signature="e#4530#4536#0#HTML" expanded="false" />
+            <element signature="e#4694#4700#0#HTML" expanded="false" />
+            <element signature="e#4701#4707#0#HTML" expanded="false" />
+            <element signature="e#4708#4714#0#HTML" expanded="false" />
+            <element signature="e#4715#4721#0#HTML" expanded="false" />
+            <element signature="e#4884#4890#0#HTML" expanded="false" />
+            <element signature="e#4891#4897#0#HTML" expanded="false" />
+            <element signature="e#4898#4904#0#HTML" expanded="false" />
+            <element signature="e#4905#4911#0#HTML" expanded="false" />
+            <element signature="e#5072#5078#0#HTML" expanded="false" />
+            <element signature="e#5079#5085#0#HTML" expanded="false" />
+            <element signature="e#5086#5092#0#HTML" expanded="false" />
+            <element signature="e#5093#5099#0#HTML" expanded="false" />
+            <element signature="e#5271#5277#0#HTML" expanded="false" />
+            <element signature="e#5278#5284#0#HTML" expanded="false" />
+            <element signature="e#5285#5291#0#HTML" expanded="false" />
+            <element signature="e#5292#5298#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/customAccount/custom-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="102" column="59" lean-forward="false" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+          <folding>
+            <element signature="e#4845#4851#0#HTML" expanded="false" />
+            <element signature="e#4852#4858#0#HTML" expanded="false" />
+            <element signature="e#4859#4865#0#HTML" expanded="false" />
+            <element signature="e#4866#4872#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/house/house-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="101" column="59" lean-forward="false" selection-start-line="101" selection-start-column="59" selection-end-line="101" selection-end-column="59" />
+          <folding>
+            <element signature="e#4821#4827#0#HTML" expanded="false" />
+            <element signature="e#4828#4834#0#HTML" expanded="false" />
+            <element signature="e#4835#4841#0#HTML" expanded="false" />
+            <element signature="e#4842#4848#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/admin-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="153" column="43" lean-forward="false" selection-start-line="153" selection-start-column="43" selection-end-line="153" selection-end-column="43" />
+          <folding>
+            <element signature="e#4646#4652#0#HTML" expanded="false" />
+            <element signature="e#4653#4659#0#HTML" expanded="false" />
+            <element signature="e#4660#4666#0#HTML" expanded="false" />
+            <element signature="e#4667#4673#0#HTML" expanded="false" />
+            <element signature="e#4836#4842#0#HTML" expanded="false" />
+            <element signature="e#4843#4849#0#HTML" expanded="false" />
+            <element signature="e#4850#4856#0#HTML" expanded="false" />
+            <element signature="e#4857#4863#0#HTML" expanded="false" />
+            <element signature="e#5024#5030#0#HTML" expanded="false" />
+            <element signature="e#5031#5037#0#HTML" expanded="false" />
+            <element signature="e#5038#5044#0#HTML" expanded="false" />
+            <element signature="e#5045#5051#0#HTML" expanded="false" />
+            <element signature="e#5208#5214#0#HTML" expanded="false" />
+            <element signature="e#5215#5221#0#HTML" expanded="false" />
+            <element signature="e#5222#5228#0#HTML" expanded="false" />
+            <element signature="e#5229#5235#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/admin-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="130" column="53" lean-forward="true" selection-start-line="130" selection-start-column="53" selection-end-line="130" selection-end-column="53" />
+          <folding>
+            <element signature="e#4863#4869#0#HTML" expanded="false" />
+            <element signature="e#4870#4876#0#HTML" expanded="false" />
+            <element signature="e#4877#4883#0#HTML" expanded="false" />
+            <element signature="e#4884#4890#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="103" column="75" lean-forward="false" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+          <folding>
+            <element signature="e#4924#4930#0#HTML" expanded="false" />
+            <element signature="e#4931#4937#0#HTML" expanded="false" />
+            <element signature="e#4938#4944#0#HTML" expanded="false" />
+            <element signature="e#4945#4951#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="102" column="59" lean-forward="false" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+          <folding>
+            <element signature="e#4924#4930#0#HTML" expanded="false" />
+            <element signature="e#4931#4937#0#HTML" expanded="false" />
+            <element signature="e#4938#4944#0#HTML" expanded="false" />
+            <element signature="e#4945#4951#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="100" column="71" lean-forward="false" selection-start-line="100" selection-start-column="71" selection-end-line="100" selection-end-column="71" />
+          <folding>
+            <element signature="e#4947#4953#0#HTML" expanded="false" />
+            <element signature="e#4954#4960#0#HTML" expanded="false" />
+            <element signature="e#4961#4967#0#HTML" expanded="false" />
+            <element signature="e#4968#4974#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/customAccount/custom-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="102" column="74" lean-forward="true" selection-start-line="102" selection-start-column="74" selection-end-line="102" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/house/house-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <folding>
+            <element signature="e#4932#4938#0#HTML" expanded="false" />
+            <element signature="e#4939#4945#0#HTML" expanded="false" />
+            <element signature="e#4946#4952#0#HTML" expanded="false" />
+            <element signature="e#4953#4959#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="100" column="75" lean-forward="false" selection-start-line="100" selection-start-column="75" selection-end-line="100" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="104" column="74" lean-forward="false" selection-start-line="104" selection-start-column="74" selection-end-line="104" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/notice/notice-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-929">
+          <caret line="134" column="11" lean-forward="false" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/notice/notice-list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="167" column="57" lean-forward="false" selection-start-line="167" selection-start-column="51" selection-end-line="167" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/inspection/inspection-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="169" column="41" lean-forward="false" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/action/InspectionAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="289">
+          <caret line="100" column="71" lean-forward="false" selection-start-line="100" selection-start-column="71" selection-end-line="100" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-            <element signature="e#1533#1534#0" expanded="true" />
-            <element signature="e#1571#1572#0" expanded="true" />
-            <element signature="e#1617#1618#0" expanded="true" />
-            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#4861#4867#0#HTML" expanded="true" />
+            <element signature="e#4868#4874#0#HTML" expanded="true" />
+            <element signature="e#4875#4881#0#HTML" expanded="true" />
+            <element signature="e#4882#4888#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/notice/notice-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="102" column="59" lean-forward="false" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin/admin-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="101" column="102" lean-forward="false" selection-start-line="101" selection-start-column="102" selection-end-line="101" selection-end-column="102" />
+          <folding>
+            <element signature="e#5270#5276#0#HTML" expanded="true" />
+            <element signature="e#5277#5283#0#HTML" expanded="true" />
+            <element signature="e#5284#5290#0#HTML" expanded="true" />
+            <element signature="e#5291#5297#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="102" column="112" lean-forward="false" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="106" column="46" lean-forward="true" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="46" />
+          <folding>
+            <element signature="e#4408#4414#0#HTML" expanded="true" />
+            <element signature="e#4415#4421#0#HTML" expanded="true" />
+            <element signature="e#4422#4428#0#HTML" expanded="true" />
+            <element signature="e#4429#4435#0#HTML" expanded="true" />
+            <element signature="e#4436#4442#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ccde594e/07b51ef1-9776-44fe-a1a9-9c6e206a6e35/wuye.custom_account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/Admin.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/CustomAccount.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/House.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="22" column="83" lean-forward="true" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/Inspection.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="68" lean-forward="false" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/Maintain.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="21" column="107" lean-forward="false" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/entity/Notice.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="66" lean-forward="false" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ccde594e/07b51ef1-9776-44fe-a1a9-9c6e206a6e35/wuye.maintain">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dao/AlikeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="method#login#0;class#Service#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/action/MaintainAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>

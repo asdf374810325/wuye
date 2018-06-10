@@ -77,7 +77,7 @@
                     <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu">
-                    <li><a href="user?action=logout">注销登录</a></li>
+                    <li><a href="login_exit.action">注销登录</a></li>
                 </ul>
             </div>
             <!-- user dropdown ends -->

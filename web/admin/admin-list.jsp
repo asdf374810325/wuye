@@ -97,12 +97,12 @@
                     <ul class="nav nav-pills nav-stacked main-menu">
                         <li class="nav-header">功能</li>
                     	    <li><a class="ajax-link" href="index.jsp"><i class="glyphicon glyphicon-home"></i><span> &ensp;首&ensp;页</span></a>
-							<li class="active"><a class="ajax-link" href="admin_query.action"><i class="glyphicon glyphicon-cog"></i><span> &ensp;管&ensp;理&ensp;员&ensp;信&ensp;息</span></a>
-							<li><a class="ajax-link" href="maintain_query.action"><i class="glyphicon glyphicon-wrench"></i><span> &ensp;报&ensp;修&ensp;管&ensp;理</span></a>
-							<li><a class="ajax-link" href="notice?action=noticelist"><i class="glyphicon glyphicon-envelope"></i><span> &ensp;公&ensp;告&ensp;管&ensp;理</span></a>
-							<li><a class="ajax-link" href="inspection?action=inspectionList"><i class="glyphicon glyphicon-info-sign"></i><span> &ensp;保&ensp;安&ensp;保&ensp;洁</span></a>
-							<li><a class="ajax-link" href="custom?action=customAccountList"><i class="glyphicon glyphicon-user"></i><span> &ensp;业&ensp;主&ensp;信&ensp;息</span></a>
-							<li><a class="ajax-link" href="house?action=houseList"><i class="glyphicon glyphicon-list-alt"></i><span> &ensp;房&ensp;产&ensp;信&ensp;息</span></a>
+							<li class="active"><a class="ajax-link" href="${pageContext.request.contextPath}/admin_query.action"><i class="glyphicon glyphicon-cog"></i><span> &ensp;管&ensp;理&ensp;员&ensp;信&ensp;息</span></a>
+							<li><a class="ajax-link" href="${pageContext.request.contextPath}/maintain_query.action"><i class="glyphicon glyphicon-wrench"></i><span> &ensp;报&ensp;修&ensp;管&ensp;理</span></a>
+							<li><a class="ajax-link" href="${pageContext.request.contextPath}/notice_query.action"><i class="glyphicon glyphicon-envelope"></i><span> &ensp;公&ensp;告&ensp;管&ensp;理</span></a>
+							<li><a class="ajax-link" href="${pageContext.request.contextPath}/inspection_query.action"><i class="glyphicon glyphicon-info-sign"></i><span> &ensp;保&ensp;安&ensp;保&ensp;洁</span></a>
+							<li><a class="ajax-link" href="${pageContext.request.contextPath}/customAccount_query.action"><i class="glyphicon glyphicon-user"></i><span> &ensp;业&ensp;主&ensp;信&ensp;息</span></a>
+							<li><a class="ajax-link" href="${pageContext.request.contextPath}/house_query.action"><i class="glyphicon glyphicon-list-alt"></i><span> &ensp;房&ensp;产&ensp;信&ensp;息</span></a>
                         </li>
                     </ul>
                 </div>
@@ -128,7 +128,7 @@
                         <a href="index.jsp">首页</a>
                     </li>
                     <li>
-                        <a href="admin?action=adminList">管理员信息</a>
+                        <a href="${pageContext.request.contextPath}/admin_query.action">管理员信息</a>
                     </li>
                 </ul>
             </div>

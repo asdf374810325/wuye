@@ -32,6 +32,16 @@
             <result name="inspectionToEdit" type="redirectAction">inspection_query</result>
             <result name="inspectionListToEdit" type="dispatcher">inspection/inspection-edit.jsp</result>
         </action>
+        <action name="customAccount_*" class="customAccountAction" method="{1}">
+            <result name="customAccountList" type="dispatcher">customAccount/custom-list.jsp</result>
+            <result name="customAccountToList" type="redirectAction">customAccount_query</result>
+            <result name="customAccountListToEdit" type="dispatcher">customAccount/custom-edit.jsp</result>
+        </action>
+        <action name="house_*" class="houseAction" method="{1}">
+            <result name="houseList" type="dispatcher">house/house-list.jsp</result>
+            <result name="houseToList" type="redirectAction">house_query</result>
+            <result name="houseListToEdit" type="dispatcher">house/house-edit.jsp</result>
+        </action>
     </package>
     
 </struts>
