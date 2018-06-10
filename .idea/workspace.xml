@@ -6,42 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558f0a6f-fb76-4700-88db-5450d77a8158" name="默认的" comment="test&#10;&#10;test">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/action/CustomAccountAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/action/HouseAction.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+    <list default="true" id="558f0a6f-fb76-4700-88db-5450d77a8158" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/action/InspectionAction.java" afterPath="$PROJECT_DIR$/src/com/action/InspectionAction.java" />
-      <change beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
-      <change beforePath="$PROJECT_DIR$/web/admin/admin-add.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/admin/admin-edit.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/admin/admin-list.jsp" afterPath="$PROJECT_DIR$/web/admin/admin-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-add.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-edit.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/customAccount/custom-list.jsp" afterPath="$PROJECT_DIR$/web/customAccount/custom-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/customAccount/user-change-passwd.jsp" afterPath="$PROJECT_DIR$/web/customAccount/user-change-passwd.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/customAccount/user-custom-list.jsp" afterPath="$PROJECT_DIR$/web/customAccount/user-custom-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/house/house-add.jsp" afterPath="$PROJECT_DIR$/web/house/house-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/house/house-edit.jsp" afterPath="$PROJECT_DIR$/web/house/house-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/house/house-list.jsp" afterPath="$PROJECT_DIR$/web/house/house-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/house/user-house-list.jsp" afterPath="$PROJECT_DIR$/web/house/user-house-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-add.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/inspection/inspection-list.jsp" afterPath="$PROJECT_DIR$/web/inspection/inspection-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-add.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/maintain/maintain-list.jsp" afterPath="$PROJECT_DIR$/web/maintain/maintain-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/maintain/user-maintain-add.jsp" afterPath="$PROJECT_DIR$/web/maintain/user-maintain-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/maintain/user-maintain-list.jsp" afterPath="$PROJECT_DIR$/web/maintain/user-maintain-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/notice/notice-add.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/notice/notice-edit.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/notice/notice-list.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/notice/notice-view.jsp" afterPath="$PROJECT_DIR$/web/notice/notice-view.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/notice/user-notice-list.jsp" afterPath="$PROJECT_DIR$/web/notice/user-notice-list.jsp" />
-      <change beforePath="$PROJECT_DIR$/wuye.iml" afterPath="$PROJECT_DIR$/wuye.iml" />
     </list>
     <ignored path=".idea/" />
     <ignored path="out/" />
@@ -86,54 +52,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/struts.xml">
-          <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maintain-list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaintainAction.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/action/MaintainAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/service/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="method#login#0;class#Service#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -307,56 +226,7 @@
             <path>
               <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
               <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="customAccount" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="house" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="inspection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="maintain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="notice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuye" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuye" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -530,7 +400,7 @@
       <option name="presentableId" value="Default" />
       <updated>1528420601150</updated>
       <workItem from="1528420607811" duration="10246000" />
-      <workItem from="1528628721579" duration="4996000" />
+      <workItem from="1528628721579" duration="5653000" />
     </task>
     <task id="LOCAL-00001" summary="test&#10;&#10;test">
       <created>1528430211942</created>
@@ -546,15 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528430455767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test&#10;&#10;test">
+      <created>1528633784039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528633784039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15242000" />
+    <option name="totallyTimeSpent" value="15899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -578,7 +454,7 @@
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6698413" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1030,10 +906,10 @@
         <state relative-caret-position="289">
           <caret line="100" column="71" lean-forward="false" selection-start-line="100" selection-start-column="71" selection-end-line="100" selection-end-column="71" />
           <folding>
-            <element signature="e#4861#4867#0#HTML" expanded="true" />
-            <element signature="e#4868#4874#0#HTML" expanded="true" />
-            <element signature="e#4875#4881#0#HTML" expanded="true" />
-            <element signature="e#4882#4888#0#HTML" expanded="true" />
+            <element signature="e#4861#4867#0#HTML" expanded="false" />
+            <element signature="e#4868#4874#0#HTML" expanded="false" />
+            <element signature="e#4875#4881#0#HTML" expanded="false" />
+            <element signature="e#4882#4888#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1051,10 +927,10 @@
         <state relative-caret-position="240">
           <caret line="101" column="102" lean-forward="false" selection-start-line="101" selection-start-column="102" selection-end-line="101" selection-end-column="102" />
           <folding>
-            <element signature="e#5270#5276#0#HTML" expanded="true" />
-            <element signature="e#5277#5283#0#HTML" expanded="true" />
-            <element signature="e#5284#5290#0#HTML" expanded="true" />
-            <element signature="e#5291#5297#0#HTML" expanded="true" />
+            <element signature="e#5270#5276#0#HTML" expanded="false" />
+            <element signature="e#5277#5283#0#HTML" expanded="false" />
+            <element signature="e#5284#5290#0#HTML" expanded="false" />
+            <element signature="e#5291#5297#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1072,11 +948,11 @@
         <state relative-caret-position="313">
           <caret line="106" column="46" lean-forward="true" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="46" />
           <folding>
-            <element signature="e#4408#4414#0#HTML" expanded="true" />
-            <element signature="e#4415#4421#0#HTML" expanded="true" />
-            <element signature="e#4422#4428#0#HTML" expanded="true" />
-            <element signature="e#4429#4435#0#HTML" expanded="true" />
-            <element signature="e#4436#4442#0#HTML" expanded="true" />
+            <element signature="e#4408#4414#0#HTML" expanded="false" />
+            <element signature="e#4415#4421#0#HTML" expanded="false" />
+            <element signature="e#4422#4428#0#HTML" expanded="false" />
+            <element signature="e#4429#4435#0#HTML" expanded="false" />
+            <element signature="e#4436#4442#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1085,14 +961,6 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,17 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/ccde594e/07b51ef1-9776-44fe-a1a9-9c6e206a6e35/wuye.maintain">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -1175,7 +1032,7 @@
         <state relative-caret-position="52">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="false" />
             <element signature="method#login#0;class#Service#0" expanded="false" />
           </folding>
         </state>
@@ -1183,8 +1040,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/action/MaintainAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        <state relative-caret-position="121">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/maintain/maintain-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
           <folding />
         </state>
       </provider>
