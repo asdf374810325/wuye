@@ -5,7 +5,6 @@
         "http://struts.apache.org/dtds/struts-2.3.dtd">
 
 <struts>
-    
     <package name="demo1" extends="struts-default" namespace="/">
         <action name="login_*" class="loginAction" method="{1}">
             <result name="error" type="redirect">login.jsp</result>
@@ -43,5 +42,4 @@
             <result name="houseListToEdit" type="dispatcher">house/house-edit.jsp</result>
         </action>
     </package>
-    
 </struts>

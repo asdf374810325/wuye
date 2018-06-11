@@ -47,8 +47,6 @@
         <property name="service" ref="service"/>
     </bean>
 
-
-
     <bean name="service" class="com.service.Service">
         <property name="alikeDao" ref="alikeDao"/>
     </bean>
@@ -56,7 +54,6 @@
     <bean name="alikeDao" class="com.dao.AlikeDao">
         <property name="sessionFactory" ref="sessionFactory"/>
     </bean>
-
 
     <bean name="admin" class="com.entity.Admin"/>
     <bean name="customAccount" class="com.entity.CustomAccount"/>
