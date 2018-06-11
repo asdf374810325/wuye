@@ -8,9 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="558f0a6f-fb76-4700-88db-5450d77a8158" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/service/Service.java" afterPath="$PROJECT_DIR$/src/com/service/Service.java" />
-      <change beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
     </list>
     <ignored path=".idea/" />
     <ignored path="out/" />
@@ -174,7 +171,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="27" />
     <option name="y" value="38" />
     <option name="width" value="1346" />
@@ -405,7 +402,7 @@
       <updated>1528420601150</updated>
       <workItem from="1528420607811" duration="10246000" />
       <workItem from="1528628721579" duration="5686000" />
-      <workItem from="1528677584553" duration="3191000" />
+      <workItem from="1528677584553" duration="3248000" />
     </task>
     <task id="LOCAL-00001" summary="test&#10;&#10;test">
       <created>1528430211942</created>
@@ -435,14 +432,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528634427165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test&#10;&#10;test">
+      <created>1528680854855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528680854855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19123000" />
+    <option name="totallyTimeSpent" value="19180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
